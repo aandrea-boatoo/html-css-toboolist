@@ -62,10 +62,10 @@ main{
 
 /* Menu a cascata */
 .menu{
-    padding-left: 10%;   
+    padding-left: 10%;  
 }
 
-summary{
+.group-title{
     font-size: 1.5em;
     font-weight: 600;
     color: rgb(64, 64, 64);
