@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
@@ -32,25 +32,23 @@ body{
 main{
     margin-top: 30px;
     max-width: 1200px;
-    margin: auto;
     padding-top: 30px;
 }
 
 .container{
     background-color: white ;
     border-radius: 10px;
-    margin: 1%;
+    margin-bottom: 2px;
 }
 
 /* Sezione aggiunte */
 #sezione-add{
-    padding-left: 10%;
-    margin-right: 0%;
+    padding-left: 5%;
+    margin-right: 0;
 }
 
 .add{
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin: 2px 0;
     display: inline-block;
     padding: 5px;
     border-radius: 10px;
@@ -70,7 +68,7 @@ main{
 
 /* Menu a cascata */
 .menu{
-    padding-left: 10%;  
+    padding-left: 5%;  
 }
 
 .group-title{
